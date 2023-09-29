@@ -3,8 +3,5 @@ hi hello
 34
 56
 78
-<<<<<<< HEAD
 1112
-=======
 910
->>>>>>> 85a9588 (update hello from old branch)
