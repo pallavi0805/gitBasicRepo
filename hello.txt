@@ -1,2 +1,6 @@
 hi hello
+<<<<<<< HEAD
 12
+=======
+34
+>>>>>>> 6c91385 (update hello from old branch)
